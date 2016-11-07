@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="notify:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/notify_Web</output-path>
+    <root id="archive" name="notify_Web.war">
+      <element id="artifact" artifact-name="notify:Web exploded" />
+    </root>
+  </artifact>
+</component>
